@@ -1,1 +1,1 @@
-Hi! I love git!
+Hi! I love git! Git is so intresting. 
